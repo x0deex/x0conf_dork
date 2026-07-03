@@ -80,7 +80,7 @@ cd x0conf_dork
 ## Установка зависимостей
 
 ```bash
-pip install colorama
+pip install -r requirements.txt
 ```
 
 > Если библиотека **colorama** отсутствует, программа всё равно будет работать, используя ANSI-последовательности.
