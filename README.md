@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Dork Generator
+# 🔍 x0conf dork
 
 ### Powerful Google Dork Generator for OSINT Research
 
